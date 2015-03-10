@@ -6,6 +6,6 @@ Learn how to create extensions for Google's Chrome browser. In this course we'll
 The source files directory contains four sub-directories - one for each of the different extensions that we'll build throughout the course. Each subdirectory contains at minimum a manifest file that describes that extension and one or more JS, CSS and or HTML files. Several of the extensions also contain subdirectories that contain additional resources used by the extension in question.
 
 
-These are source files for the Tuts+ course: [Building Chrome Extensions](https://courses.tutsplus.com/courses/)
+These are source files for the Tuts+ course: [Building Chrome Extensions](https://code.tutsplus.com/courses/building-a-chrome-extension)
 
-**Available on Tuts+ March, 2015**
+**Take this course on [Tuts+](https://code.tutsplus.com/courses)**
